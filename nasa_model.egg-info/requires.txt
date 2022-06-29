@@ -1,0 +1,8 @@
+feature-engine
+joblib
+numpy
+pandas
+pydantic
+ruamel.yaml
+scikit-learn
+strictyaml

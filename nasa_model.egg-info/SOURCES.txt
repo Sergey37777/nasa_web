@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+nasa_model.egg-info/PKG-INFO
+nasa_model.egg-info/SOURCES.txt
+nasa_model.egg-info/dependency_links.txt
+nasa_model.egg-info/requires.txt
+nasa_model.egg-info/top_level.txt
